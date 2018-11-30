@@ -1,2 +1,4 @@
-print(1+1)
-print(105+10)
+number = 5
+print(number, type(number))
+number = 'Hello'
+print(number, type(number))
