@@ -1,4 +1,2 @@
-number = 5
-print(number, type(number))
-number = 'Hello'
-print(number, type(number))
+first_number = 1+1
+print(first_number)
