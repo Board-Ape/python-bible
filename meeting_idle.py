@@ -1,7 +1,7 @@
-first_number = 1+1
-print(first_number)
-second_number = 105+10
-print(second_number)
+someInt = 198 * 37
+print(type(someInt))
+someFloat = 20 / 30
+print(type(someFloat))
 
-total = first_number + second_number
-print(total)
+print(5 * 3 - 1)
+print(5 * (3 - 1))
